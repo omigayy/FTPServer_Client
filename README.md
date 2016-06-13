@@ -1,1 +1,1 @@
-# A FTP client and a FTP server using Socket I/O in Java
+A FTP client and a FTP server using Socket I/O in Java
